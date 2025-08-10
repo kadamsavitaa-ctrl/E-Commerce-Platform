@@ -22,6 +22,3 @@ provides customers with a seamless shopping experience.
 * <Strong> XAMPP Tutorial: [Click Here](https://www.simplilearn.com/tutorials/php-tutorial/php-using-xampp)</strong>
 
 
-
-* Documentation Link: [Click Here](https://drive.google.com/drive/folders/1G84rkftNQmzx-yVJlIvC-iQm8gKhpYDG)
-
